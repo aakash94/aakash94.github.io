@@ -6,7 +6,7 @@ repository: sproogen/resume-theme
 name: Aakash Maroti
 title: Software Engineer (Computer Vision)
 email: aakash.maroti@gmail.com
-website: www.github.com/aakash94
+website: aakash94.github.io
 
 # Social links
 # twitter_username: facespics
@@ -41,10 +41,9 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+   - Music
+   - Football
+   - Karting
 
 # Footer
 footer_show_references: true
