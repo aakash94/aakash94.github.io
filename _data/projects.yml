@@ -13,15 +13,6 @@
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
-
-- layout: left
-  name: Capsule Networks
-  #link: github.com/sproogen
-  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
-  #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
-
 - layout: left
   name: Capsule Networks
   #link: github.com/sproogen
