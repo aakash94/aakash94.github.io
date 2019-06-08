@@ -1,33 +1,21 @@
 - layout: left
-  name: RL agent to play/solve Brainvita
+  name: RL environment and agent to play/solve Brainvita
   link: aakash94.github.io/Brainvita/
   github: aakash94/Brainvita
-  quote: >
-    Now with the environment included.
+  #quote: > Now with the environment included.
   description: | # this will include new lines to allow paragraphs
     Probably a problem that no one wanted/needed a RL based solution to. Nevertheless here we are.
 
 - layout: left
-  name: Reward based epsilon decay to solve cart pole.
+  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb name: Reward based epsilon decay.
   link: aakash94.github.io/Reward-Based-Epsilon-Decay
-  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb
-  quote: >
-    "Interesting!" - some random person on reddit.
+  #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
 
 - layout: left
-  name: Capsule Networks
+  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py name: Capsule Networks
   #link: github.com/sproogen
-  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
-  #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  description: | # this will include new lines to allow paragraphs
-    Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
-
-- layout: left
-  name: Capsule Networks
-  #link: github.com/sproogen
-  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
   #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
@@ -65,25 +53,22 @@
     Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
 
 - layout: left
-  name: Stencil Matching
+  github: github.com/aakash94/StencilMatching name: Stencil Matching
   link: aakash94.github.io/StencilMatching/
-  github: github.com/aakash94/StencilMatching
   #quote: > Is this really worth a patent?
   description: | # this will include new lines to allow paragraphs
     Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
 
 - layout: left
-  name: PyTorch Deep Learning
+  github: aakash94/DeepLearningBasics name: PyTorch Deep Learning
   #link: github.com/sproogen
-  github: aakash94/DeepLearningBasics
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Code and examples of basic deep learning concepts in PyTorch for easy reference.
 
 - layout: left
-  name: Microsoft Search Results Optmization
+  github: https://github.com/aakash94/MSAI name: Microsoft Search Results Optmization
   #link: github.com/sproogen
-  github: https://github.com/aakash94/MSAI
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
