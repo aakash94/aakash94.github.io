@@ -7,14 +7,16 @@
     Probably a problem that no one wanted/needed a RL based solution to. Nevertheless here we are.
 
 - layout: left
-  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb name: Reward based epsilon decay.
+  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb 
+  name: Reward based epsilon decay.
   link: aakash94.github.io/Reward-Based-Epsilon-Decay
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
 
 - layout: left
-  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py name: Capsule Networks
+  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py 
+  name: Capsule Networks
   #link: github.com/sproogen
   #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
@@ -53,21 +55,24 @@
     Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
 
 - layout: left
-  github: github.com/aakash94/StencilMatching name: Stencil Matching
+  github: github.com/aakash94/StencilMatching 
+  name: Stencil Matching
   link: aakash94.github.io/StencilMatching/
   #quote: > Is this really worth a patent?
   description: | # this will include new lines to allow paragraphs
     Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
 
 - layout: left
-  github: aakash94/DeepLearningBasics name: PyTorch Deep Learning
+  github: aakash94/DeepLearningBasics 
+  name: PyTorch Deep Learning
   #link: github.com/sproogen
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Code and examples of basic deep learning concepts in PyTorch for easy reference.
 
 - layout: left
-  github: https://github.com/aakash94/MSAI name: Microsoft Search Results Optmization
+  github: https://github.com/aakash94/MSAI 
+  name: Microsoft Search Results Optmization
   #link: github.com/sproogen
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
