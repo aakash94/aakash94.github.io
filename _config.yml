@@ -24,7 +24,7 @@ linkedin_username: aakashmaroti
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I am very curious and I love solving puzzles/problems.
+  Very curious and I love solving puzzles/problems.
 
   |Interested in: <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark>
   |Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>, <mark>Keras</mark>, <mark>TensorFlow</mark>
