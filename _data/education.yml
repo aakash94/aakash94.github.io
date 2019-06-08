@@ -1,10 +1,28 @@
 - layout: left
-  name: Harvard University
-  dates: 2010 - 2013
-  qualification: BSc Computer Science
-  quote: >
-    Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  name: Manipal Institute of Technology
+  dates: 2013 - 2017
+  qualification: B Tech. Computer and Communications Engineering
   description: | # this will include new lines to allow paragraphs
-    During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+    Explored lot of domains with electives like ___, ___, and ____. Attended workshops like ___, ___. Also stood 2nd in Google Android Wearable Hackathon. CGPA 7.4
 
-    I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+- layout: left
+  name: Stanford University on Coursera
+  dates: 2018
+  qualification: Machine Learning
+  description: | # this will include new lines to allow paragraphs
+    [Machine Learning by Stanford University on Coursera. Certificate earned at Sunday, April 15, 2018 6:44 AM GMT](https://www.coursera.org/account/accomplishments/certificate/5LTWY93KFGWV)
+    All assignments completed with a final grade of 94.1%
+
+- layout: left
+  name: Udacity
+  dates: 2018
+  qualification: Deep Learning Nanodegree
+  description: | # this will include new lines to allow paragraphs
+    [Completed Deep Learning Nanodegree Program](https://graduation.udacity.com/nd101)
+
+- layout: left
+  name: McMaster University & University of California San Diego on Coursera
+  dates: 2018
+  qualification: Learning How to Learn
+  description: | # this will include new lines to allow paragraphs
+    Completed Learning How to Learn with a final grade of 95.1%
