@@ -7,7 +7,7 @@
     Probably a problem that no one wanted/needed a RL based solution to. Nevertheless here we are.
 
 - layout: left
-  name: Reward based epsilon decay to solve cart pole.
+  name: Reward based epsilon decay
   link: aakash94.github.io/Reward-Based-Epsilon-Decay
   github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb
   #quote: >"Interesting!" - some random person on reddit.
