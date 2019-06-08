@@ -30,11 +30,11 @@ about_content: | # this will include new lines to allow paragraphs
   |Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>, <mark>Keras</mark>, <mark>TensorFlow</mark>
   |Languages    : <mark>Java</mark>, <mark>Python</mark>, <mark>C++</mark>
 
-  I have a provisional patent on image classification and stood 2nd in Google Android Wearable Hackathon.
+  #I have a provisional patent on image classification and stood 2nd in Google Android Wearable Hackathon.
 
 
 # Projects Section
-# projects_title: Projects and stuff
+projects_title: Projects and stuff
 
 # Experience Section
 # experience_title: Experience
