@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: RL agent to play/solve Brainvita
   link: aakash94.github.io/Brainvita/
   github: aakash94/Brainvita
@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     Probably a problem that no one wanted/needed a RL based solution to. Nevertheless here we are.
 
-- layout: top-middle
+- layout: left
   name: Reward based epsilon decay to solve cart pole.
   link: aakash94.github.io/Reward-Based-Epsilon-Decay
   github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb
@@ -16,7 +16,7 @@
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
 
-- layout: top-middle
+- layout: left
   name: Capsule Networks
   #link: github.com/sproogen
   github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
@@ -24,7 +24,7 @@
   description: | # this will include new lines to allow paragraphs
     Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
 
-- layout: top-middle
+- layout: left
   name: Capsule Networks
   #link: github.com/sproogen
   github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
@@ -32,7 +32,7 @@
   description: | # this will include new lines to allow paragraphs
     Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
 
-- layout: top-middle
+- layout: left
   name: Stroke Width Transform
   #link: github.com/sproogen
   #github: sproogen/resume-theme
@@ -40,7 +40,7 @@
   description: | # this will include new lines to allow paragraphs
     A fast and optimized implementation of [stroke width transform](https://www.microsoft.com/en-us/research/publication/stroke-width-transform/) by Microsoft in C++
 
-- layout: top-middle
+- layout: left
   name: Motion Controller for VLC media player
   #link: github.com/sproogen
   #github: sproogen/resume-theme
@@ -48,7 +48,7 @@
   description: | # this will include new lines to allow paragraphs
     Windows application to control playback on VLC media player with gestures. Camera or on-board webcam is used as a source of input.
 
-- layout: top-middle
+- layout: left
   name: Indian vehicle number plate Scanner
   #link: github.com/sproogen
   #github: sproogen/resume-theme
@@ -56,7 +56,7 @@
   description: | # this will include new lines to allow paragraphs
     Android application that fetches details of a registered Indian vehicle when a number or number plate image is presented.
 
-- layout: top-middle
+- layout: left
   name: Student Placement Prediction
   #link: github.com/sproogen
   #github: sproogen/resume-theme
@@ -64,7 +64,7 @@
   description: | # this will include new lines to allow paragraphs
     Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
 
-- layout: top-middle
+- layout: left
   name: Stencil Matching
   link: aakash94.github.io/StencilMatching/
   github: github.com/aakash94/StencilMatching
@@ -72,7 +72,7 @@
   description: | # this will include new lines to allow paragraphs
     Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
 
-- layout: top-middle
+- layout: left
   name: PyTorch Deep Learning
   #link: github.com/sproogen
   github: aakash94/DeepLearningBasics
@@ -80,7 +80,7 @@
   description: | # this will include new lines to allow paragraphs
     Code and examples of basic deep learning concepts in PyTorch for easy reference.
 
-- layout: top-middle
+- layout: left
   name: Microsoft Search Results Optmization
   #link: github.com/sproogen
   github: https://github.com/aakash94/MSAI
