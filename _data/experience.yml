@@ -17,12 +17,12 @@
     Performance and Log monitoring system with web-based front end. RESTful Spring mvc webapp, to assist in automation and dynamic deployment.
 
 - layout: left
-  company: Ship My Cargo
+  company: ShipMyCargo
   #link: shipmycargo.net
   job_title: Intern
-  dates: Dec 2015 – Jan 2016 & May - Aug 2016
+  dates: May - August 2016
   description: | # this will include new lines to allow paragraphs
-    Android app for data collection and end user.
+    Android app for easy data collection.
 
 - layout: left
   company: Ranjit Service Station
