@@ -35,7 +35,7 @@
   #github: sproogen/resume-theme
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    Windows application to control playback on VLC media player with gestures. Camera or on-board webcam is used as a source of input.
+    Windows application to control playback on [VLC media player](https://www.videolan.org/vlc/index.html) with gestures. Camera or on-board webcam is used as a source of input.
 
 - layout: left
   name: Indian vehicle number plate Scanner
