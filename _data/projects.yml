@@ -56,7 +56,7 @@
 - layout: left
   name: Stencil Matching
   link: aakash94.github.io/StencilMatching/
-  github: github.com/aakash94/StencilMatching
+  github: aakash94/StencilMatching
   #quote: > Is this really worth a patent?
   description: | # this will include new lines to allow paragraphs
     Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
@@ -72,7 +72,7 @@
 - layout: left
   name: Microsoft Search Results Optmization
   #link: github.com/sproogen
-  github: https://github.com/aakash94/MSAI
+  github: aakash94/MSAI
   #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
     Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
