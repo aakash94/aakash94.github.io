@@ -24,12 +24,17 @@ linkedin_username: aakashmaroti
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Wow. I am indecisive. Also I do not know what to put here.
+  I am very curious and I love solving puzzles/problems.
 
-  I am most skilled in: <mark>Memes</mark> and <mark>Sleeping</mark>
+  Interested in: <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark>
+  Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>, Keras, TensorFlow
+  Languages    : <mark>Java</mark>, <mark>Python</mark>, <mark>C++</mark>
+
+  I have a provisional patent on image classification and stood 2nd in Google Android Wearable Hackathon.
+
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Projects and stuff
 
 # Experience Section
 # experience_title: Experience
@@ -40,10 +45,11 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  Alongside my interests in puzzle/problem solving and software engineering some of my other interests and hobbies are:
    - Music
    - Football
-   - Karting
+   - Memes
+   - Sleeping
 
 # Footer
 footer_show_references: true

@@ -1,8 +1,89 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: RL agent to play/solve Brainvita
+  link: aakash94.github.io/Brainvita/
+  github: aakash94/Brainvita
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Now with the environment included.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Probably a problem that no one wanted/needed a RL based solution to. Nevertheless here we are.
+
+- layout: top-middle
+  name: Reward based epsilon decay to solve cart pole.
+  link: aakash94.github.io/Reward-Based-Epsilon-Decay
+  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb
+  quote: >
+    "Interesting!" - some random person on reddit.
+  description: | # this will include new lines to allow paragraphs
+    An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
+
+- layout: top-middle
+  name: Capsule Networks
+  #link: github.com/sproogen
+  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
+  #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
+
+- layout: top-middle
+  name: Capsule Networks
+  #link: github.com/sproogen
+  github: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
+  #quote: > This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
+
+- layout: top-middle
+  name: Stroke Width Transform
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    A fast and optimized implementation of [stroke width transform](https://www.microsoft.com/en-us/research/publication/stroke-width-transform/) by Microsoft in C++
+
+- layout: top-middle
+  name: Motion Controller for VLC media player
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Windows application to control playback on VLC media player with gestures. Camera or on-board webcam is used as a source of input.
+
+- layout: top-middle
+  name: Indian vehicle number plate Scanner
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Android application that fetches details of a registered Indian vehicle when a number or number plate image is presented.
+
+- layout: top-middle
+  name: Student Placement Prediction
+  #link: github.com/sproogen
+  #github: sproogen/resume-theme
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
+
+- layout: top-middle
+  name: Stencil Matching
+  link: aakash94.github.io/StencilMatching/
+  github: github.com/aakash94/StencilMatching
+  #quote: > Is this really worth a patent?
+  description: | # this will include new lines to allow paragraphs
+    Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
+
+- layout: top-middle
+  name: PyTorch Deep Learning
+  #link: github.com/sproogen
+  github: aakash94/DeepLearningBasics
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Code and examples of basic deep learning concepts in PyTorch for easy reference.
+
+- layout: top-middle
+  name: Microsoft Search Results Optmization
+  #link: github.com/sproogen
+  github: https://github.com/aakash94/MSAI
+  #quote: >This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+    Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
