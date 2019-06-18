@@ -27,7 +27,7 @@ about_content: | # this will include new lines to allow paragraphs
   Very curious and I love solving puzzles/problems.
 
   |Interested in: <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark>
-  |Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>, <mark>Keras</mark>, <mark>TensorFlow</mark>
+  |Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>
   |Languages    : <mark>Java</mark>, <mark>Python</mark>, <mark>C++</mark>
 
 # Projects Section
