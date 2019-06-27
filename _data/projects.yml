@@ -4,7 +4,7 @@
   github: aakash94/Brainvita
   #quote: >Now with the environment included.
   description: | # this will include new lines to allow paragraphs
-    A RL approach to the classic game of Brainvita, that does not involve any search , trees or look ahead. Also includes the environment.
+    A RL approach to the classic game of Brainvita, that does not involve any search or look ahead. Also includes the environment.
 
 - layout: left
   name: Reward based ε-decay
