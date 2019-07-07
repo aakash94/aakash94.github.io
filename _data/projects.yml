@@ -13,6 +13,15 @@
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
+
+- layout: left
+  name: UpDR
+  #link: aakash94.github.io/Reward-Based-Epsilon-Decay
+  github: aakash94/UpDR
+  #quote: >"Interesting!" - some random person on reddit.
+  description: | # this will include new lines to allow paragraphs
+    Un-wash out images. Use CNNs to restore colour in wshed out images.
+
 - layout: left
   name: Capsule Networks
   #link: github.com/sproogen
