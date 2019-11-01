@@ -7,9 +7,9 @@
     A RL approach to the classic game of Brainvita, that does not involve any search or look ahead. Also includes the environment.
 
 - layout: left
-  name: Reward based ε-decay
-  link: arxiv.org/abs/1910.13701
-  github: aakash94.github.io/Reward-Based-Epsilon-Decay
+  name: Reward based ε-decay. [Preprint](arxiv.org/abs/1910.13701)
+  link: aakash94.github.io/Reward-Based-Epsilon-Decay
+  github: aakash94/RED/blob/master/RewardBasedExplorationDecay.py
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
