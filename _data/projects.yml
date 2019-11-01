@@ -8,8 +8,8 @@
 
 - layout: left
   name: Reward based ε-decay
-  link: aakash94.github.io/Reward-Based-Epsilon-Decay
-  github: aakash94/DeepLearningBasics/blob/master/9DQN/CartPole.ipynb
+  link: arxiv.org/abs/1910.13701
+  github: aakash94.github.io/Reward-Based-Epsilon-Decay
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
     An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy.
