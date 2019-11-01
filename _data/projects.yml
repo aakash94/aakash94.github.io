@@ -12,7 +12,7 @@
   github: aakash94/RED/blob/master/RewardBasedExplorationDecay.py
   #quote: >"Interesting!" - some random person on reddit.
   description: | # this will include new lines to allow paragraphs
-    An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint](arxiv.org/abs/1910.13701)
+    An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint.](https://www.arxiv.org/abs/1910.13701)
 
 - layout: left
   name: UpDR
