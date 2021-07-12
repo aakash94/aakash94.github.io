@@ -1,24 +1,42 @@
 # Site
 repository: sproogen/resume-theme
-# favicon: images/favicon.ico
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
 
 # Personal info
 name: Aakash Maroti
-title: Software Engineer (Computer Vision)
+title: Reinforcement Learning Researcher
 email: aakashmaroti@pm.me
-website: aakash94.github.io
+# website: aakash94.github.io
+
+# Dark Mode (true/false/never)
+darkmode: false
 
 # Social links
 # twitter_username: facespics
 github_username:  aakash94
+# stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: chillwildlife
+# instagram_username: jameswgrant
 linkedin_username: aakashmaroti
+# xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
 
 # About Section
 # about_title: About Me
@@ -27,29 +45,181 @@ about_content: | # this will include new lines to allow paragraphs
   Very curious and I love solving puzzles/problems.
 
   |Interested in: <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark>
-  |Libraries    : <mark>OpenCV</mark>, <mark>PyTorch</mark>
-  |Languages    : <mark>Java</mark>, <mark>Python</mark>, <mark>C++</mark>
+  |Libraries    : <mark>PyTorch</mark>, <mark>OpenCV</mark>
+  |Languages    : <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>
 
-# Projects Section
-projects_title: Projects and stuff
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: RL agent for Brainvita
+        link: aakash94.github.io/Brainvita/
+        # link_text: Project Website
+        additional_links:
+          - title:  aakash94/Brainvita
+            icon: fab fa-github
+            url: github.com/aakash94/Brainvita
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          A RL approach to the classic game of Brainvita, that does not involve any search or look ahead. Also includes the environment.
+      
+      - layout: left
+        title: Reward based ε-decay
+        link: aakash94.github.io/Reward-Based-Epsilon-Decay
+        # link_text: Project Website
+        additional_links:
+          - title:  aakash94/RED
+            icon: fab fa-github
+            url: aakash94/RED/blob/master/RewardBasedExplorationDecay.py          
+        description: | # this will include new lines to allow paragraphs
+          An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint.](https://www.arxiv.org/abs/1910.13701)
+      
+      - layout: left
+        title: UpDR  
+        url: aakash94/UpDR  
+        description: |
+          Use CNNs to restore colour in washed out images.
 
-# Experience Section
-# experience_title: Experience
+      - layout: left
+        title: Capsule Networks  
+        url: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
+        description: | # this will include new lines to allow paragraphs
+          Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
 
-# Education Section
-# educaton_title: Education
+      - layout: left
+        title: Stroke Width Transform
+        description: | # this will include new lines to allow paragraphs
+          A fast and optimized implementation of [stroke width transform](https://www.microsoft.com/en-us/research/publication/stroke-width-transform/) by Microsoft in C++
 
-# More Section
-# more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in puzzle/problem solving and software engineering, some of my other interests and hobbies are:
-   - Music
-   - Football
-   - Memes
-   - Sleeping
+      - layout: left
+        title: Motion Controller for VLC media player  
+        description: | # this will include new lines to allow paragraphs
+          Windows application to control playback on [VLC media player](https://www.videolan.org/vlc/index.html) with gestures. Camera or on-board webcam is used as a source of input.
+
+      - layout: left
+        title: Indian vehicle number plate Scanner
+        description: | # this will include new lines to allow paragraphs
+          Android application that fetches details of a registered Indian vehicle when a number or number plate image is presented.
+
+      - layout: left
+        title: Student Placement Prediction  
+        description: | # this will include new lines to allow paragraphs
+          Using various data mining techniques to predict the placement performance of a final year B-Tech student in MIT Manipal.
+
+      - layout: left
+        title: Stencil Matching
+        link: aakash94.github.io/StencilMatching/
+        url: aakash94/StencilMatching  
+        description: | # this will include new lines to allow paragraphs
+          Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
+
+      - layout: left
+        title: PyTorch Deep Learning  
+        url: aakash94/DeepLearningBasics
+        description: | # this will include new lines to allow paragraphs
+          Code and examples of basic deep learning concepts in PyTorch for easy reference.
+
+      - layout: left
+        title: Search Results Relevance  
+        url: aakash94/MSAI
+        description: | # this will include new lines to allow paragraphs
+          Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
+           
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Caavo
+        link: caavo.com
+        sub_title: Computer Vision
+        caption: September 2017 - January 2021
+        #quote: >One search. One place. One control.
+        description: | # this will include new lines to allow paragraphs
+          Identifying, controlling and automating TVs and devices based on images from screen. Projects showcased at CES 2018 & 2019. A provisional patent on image classification.
+
+      - layout: left
+        title: VMware
+        link: vmware.com
+        sub_title: Intern
+        caption: January 2017 – June 2017
+        #quote: >Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Performance and Log monitoring system with web-based front end. RESTful Spring mvc webapp, to assist in automation and dynamic deployment.
+
+      - layout: left
+        title: ShipMyCargo
+        #link: shipmycargo.net
+        sub_title: Intern
+        caption: May - August 2016
+        description: | # this will include new lines to allow paragraphs
+          Android app for easy data collection.
+
+      - layout: left
+        title: Ranjit Service Station
+        sub_title: Freelancing
+        caption: May 2015
+        description: | # this will include new lines to allow paragraphs
+          Android app to manage fuel orders from depot.
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+      - layout: left
+        title: Manipal Institute of Technology
+        caption: 2013 - 2017
+        sub_title: B Tech. Computer and Communications Engineering
+        description: | # this will include new lines to allow paragraphs
+          Explored lot of domains with electives like optimization techniques, information retrieval, multimedia communications and distributed systems. Attended workshops like big data analytics, game development in Unity and internet of things by IBM Bluemix. Also stood 2nd in Google Android Wearable Hackathon.
+
+      - layout: left
+        title: Stanford University on Coursera
+        caption: 2018
+        sub_title: Machine Learning
+        description: | # this will include new lines to allow paragraphs
+          [Machine Learning by Stanford University on Coursera. Certificate earned at Sunday, April 15, 2018 6:44 AM GMT](https://www.coursera.org/account/accomplishments/certificate/5LTWY93KFGWV).
+          All assignments completed with a final grade of 94.1%
+
+      - layout: left
+        title: Udacity
+        caption: 2018
+        sub_title: Deep Learning Nanodegree
+        description: | # this will include new lines to allow paragraphs
+          Completed [Deep Learning Nanodegree Program](https://confirm.udacity.com/QACAMNHC) along with all of its projects and assignments.
+
+      - layout: left
+        title: McMaster University & University of California San Diego on Coursera
+        caption: 2018
+        sub_title: Learning How to Learn
+        description: | # this will include new lines to allow paragraphs
+          Completed Learning How to Learn with a final grade of 95.1%
+          
+      - layout: left
+        title: University of Alberta & Alberta Machine Intelligence Institute on Coursera
+        caption: 2019
+        sub_title: Fundamentals of Reinforcement Learning
+        description: | # this will include new lines to allow paragraphs
+          [Fundamentals of Reinforcement Learning by University of Alberta & Alberta Machine Intelligence Institute on Coursera. Certificate earned at Monday, August 12, 2019 1:40 PM GMT](https://www.coursera.org/account/accomplishments/certificate/8Q5QYMZJ8NFL).
+          All assignments completed with a final grade of 100%
+
+      
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in puzzle/problem solving and software engineering, some of my other interests and hobbies are:      
+      - Football (Soccer)
+      - Memes
+      - Music
+      - Sleeping
 
 # Footer
 footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
