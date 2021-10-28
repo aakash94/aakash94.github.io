@@ -206,7 +206,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           [Fundamentals of Reinforcement Learning by University of Alberta & Alberta Machine Intelligence Institute on Coursera. Certificate earned at Monday, August 12, 2019 1:40 PM GMT](https://www.coursera.org/account/accomplishments/certificate/8Q5QYMZJ8NFL).
           All assignments completed with a final grade of 100%
-
+      
+      - layout: left
+        title: Pompeu Fabra University, Barcelona
+        caption: 2021 - Present
+        sub_title: Master in Intelligent Interactive Systems
       
   - title: A Little More About Me
     layout: text
