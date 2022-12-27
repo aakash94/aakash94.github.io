@@ -212,7 +212,7 @@ content:
         caption: 2021 - 2022
         sub_title: Master in Intelligent Interactive Systems
         description: | # this will include new lines to allow paragraph
-          CGPA 8.192. Completed courses on Autonomous Systems, Probablistic Models, Machine Learning, Web Intelligence, Natural Language Interaction, Computational Semantics, Reinforcement Learning, and Thesis on adapting transporter networks for autonomous driving, by using motion information to change point of view. 
+          CGPA 8.192. Completed courses on Autonomous Systems, Probabilistic Models, Machine Learning, Web Intelligence, Natural Language Interaction, Computational Semantics, Reinforcement Learning, and Thesis on adapting transporter networks for autonomous driving, by using motion information to change point of view. 
       
   - title: A Little More About Me
     layout: text
