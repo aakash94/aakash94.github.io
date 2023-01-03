@@ -79,9 +79,36 @@ content:
         description: | # this will include new lines to allow paragraphs
           An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint.](https://www.arxiv.org/abs/1910.13701)
       
+      
       - layout: left
-        title: UpDR  
-        url: aakash94/UpDR  
+        title: SimpleEnv
+        link: github.com/aakash94/SimpleEnv
+        # link_text: Project Website
+        additional_links:
+          - title:  aakash94/SimpleEnv
+            icon: fab fa-github
+            url: aakash94/SimpleEnv          
+        description: | # this will include new lines to allow paragraphs
+          Set of simple OpenAI Gym compatible environment to assist in bug free developement of Deep Reinforcement Learning agent.
+  
+      
+      - layout: left
+        title: Reinforcement Learning Projects from Deep Learning Nanodegree
+        # link: github.com/aakash94/aakash94/DLNDRL
+        # link_text: Project Website
+        additional_links:
+          - title:  aakash94/DLNDRL
+            icon: fab fa-github
+            url: aakash94/DLNDRL          
+        description: | # this will include new lines to allow paragraphs
+          Reinforcement Learning Projects that were part of Deep Learning Nanodegree by udacity. Using various basic Reinforcement Learning algorthims to solve basic environments.
+      
+      - layout: left
+        title: UpDR
+        additional_links:
+          - title:  aakash94/DLNDRL
+            icon: fab fa-github
+            url: aakash94/UpDR          
         description: |
           Use CNNs to restore colour in washed out images.
 
@@ -95,6 +122,46 @@ content:
         title: Stroke Width Transform
         description: | # this will include new lines to allow paragraphs
           A fast and optimized implementation of [stroke width transform](https://www.microsoft.com/en-us/research/publication/stroke-width-transform/) by Microsoft in C++
+          
+      - layout: left
+        title: Conversational Negotiating Agent
+        description: | # this will include new lines to allow paragraphs
+          A complete end-to-end conversational agent to negotiate the best price for purchasing laptops.
+          
+      - layout: left
+        title: Actor Critic for Lunar Lander
+        description: | # this will include new lines to allow paragraphs
+          Implement actor-critic algorithm from scratch to train an agent for continuous control in the LunarLander environment.
+
+      - layout: left
+        title: RumorEval
+        additional_links:
+          - title:  aakash94/ComputationalSemantics
+            icon: fab fa-github
+            url: aakash94/ComputationalSemantics  
+        description: | # this will include new lines to allow paragraphs
+          Using Distilbert to classify tweet responses into appropriate categories.
+
+      - layout: left
+        title: Analysis of Grammy Nominees and their Lyrics throughout the years
+        additional_links:
+          - title:  aakash94/WIP
+            icon: fab fa-github
+            url: aakash94/WIP  
+        description: | # this will include new lines to allow paragraphs
+          Scrape the web to get information on Grammy nominated artists, their lyrics, and their portrayal in media. Analyse the information obtained to gain insights.
+      
+      - layout: left
+        title: Motion Assisted Translation of viewpoint for Transporter networks
+        additional_links:
+          - title:  aakash94/TransporterThesis
+            icon: fab fa-github
+            url: aakash94/TransporterThesis  
+        description: | # this will include new lines to allow paragraphs
+          Use knowledge of motion to significantly improve performance of transporter networks in environments with egocentric vision, such as autonomous navigation with sensors mounted on vehicle.
+
+
+
 
       - layout: left
         title: Motion Controller for VLC media player  
@@ -114,7 +181,11 @@ content:
       - layout: left
         title: Stencil Matching
         link: aakash94.github.io/StencilMatching/
-        url: aakash94/StencilMatching  
+        url: aakash94/StencilMatching
+        additional_links:
+          - title:  aakash94/StencilMatching
+            icon: fab fa-github
+            url: aakash94/StencilMatching
         description: | # this will include new lines to allow paragraphs
           Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
 
