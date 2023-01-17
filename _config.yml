@@ -211,7 +211,7 @@ content:
         caption: September 2017 - January 2021
         #quote: >One search. One place. One control.
         description: | # this will include new lines to allow paragraphs
-          Identifying, controlling and automating TVs and devices based on images from screen. Projects showcased at CES 2018 & 2019. A provisional patent on image classification.
+          Using a wide range of techniques from classic image processing to modern state-of-the-art computer vision to innovate and solve problems. Redesigned the computer vision stack to introduce multi-threading, increase code re-usability, enable better testing, simplify update cycles, and bring about significant performance improvements. Leveraged computer vision to automate the installation of apps, selection of profiles, and launching of content across different devices. Patented a new image classification technique that reduced device detection time by 80%. Worked on other projects including automatic crawling and launching of DVR content, detecting and replacing advertisements on live TV, and detecting the type of keyboard present on the screen for automatic text entry.
 
       - layout: left
         title: VMware
