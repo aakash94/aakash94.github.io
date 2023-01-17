@@ -49,6 +49,42 @@ about_content: | # this will include new lines to allow paragraphs
   |Languages    : <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>
 
 content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Caavo
+        link: caavo.com
+        sub_title: Computer Vision
+        caption: September 2017 - January 2021
+        #quote: >One search. One place. One control.
+        description: | # this will include new lines to allow paragraphs
+          Using a wide range of techniques from classic image processing to modern state-of-the-art computer vision to innovate and solve problems. Redesigned the computer vision stack to introduce multi-threading, increase code re-usability, enable better testing, simplify update cycles, and bring about significant performance improvements. Leveraged computer vision to automate the installation of apps, selection of profiles, and launching of content across different devices. Patented a new image classification technique that reduced device detection time by 80%. Worked on other projects including automatic crawling and launching of DVR content, detecting and replacing advertisements on live TV, and detecting the type of keyboard present on the screen for automatic text entry.
+
+      - layout: left
+        title: VMware
+        link: vmware.com
+        sub_title: Intern
+        caption: January 2017 – June 2017
+        #quote: >Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+          Performance and Log monitoring system with web-based front end. RESTful Spring mvc webapp, to assist in automation and dynamic deployment.
+
+      - layout: left
+        title: ShipMyCargo
+        #link: shipmycargo.net
+        sub_title: Intern
+        caption: May - August 2016
+        description: | # this will include new lines to allow paragraphs
+          Android app for easy data collection.
+
+      - layout: left
+        title: Ranjit Service Station
+        sub_title: Freelancing
+        caption: May 2015
+        description: | # this will include new lines to allow paragraphs
+          Android app to manage fuel orders from depot.
+      
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -160,9 +196,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Use knowledge of motion to significantly improve performance of transporter networks in environments with egocentric vision, such as autonomous navigation with sensors mounted on vehicle.
 
-
-
-
       - layout: left
         title: Motion Controller for VLC media player  
         description: | # this will include new lines to allow paragraphs
@@ -201,41 +234,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
            
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Caavo
-        link: caavo.com
-        sub_title: Computer Vision
-        caption: September 2017 - January 2021
-        #quote: >One search. One place. One control.
-        description: | # this will include new lines to allow paragraphs
-          Using a wide range of techniques from classic image processing to modern state-of-the-art computer vision to innovate and solve problems. Redesigned the computer vision stack to introduce multi-threading, increase code re-usability, enable better testing, simplify update cycles, and bring about significant performance improvements. Leveraged computer vision to automate the installation of apps, selection of profiles, and launching of content across different devices. Patented a new image classification technique that reduced device detection time by 80%. Worked on other projects including automatic crawling and launching of DVR content, detecting and replacing advertisements on live TV, and detecting the type of keyboard present on the screen for automatic text entry.
-
-      - layout: left
-        title: VMware
-        link: vmware.com
-        sub_title: Intern
-        caption: January 2017 – June 2017
-        #quote: >Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          Performance and Log monitoring system with web-based front end. RESTful Spring mvc webapp, to assist in automation and dynamic deployment.
-
-      - layout: left
-        title: ShipMyCargo
-        #link: shipmycargo.net
-        sub_title: Intern
-        caption: May - August 2016
-        description: | # this will include new lines to allow paragraphs
-          Android app for easy data collection.
-
-      - layout: left
-        title: Ranjit Service Station
-        sub_title: Freelancing
-        caption: May 2015
-        description: | # this will include new lines to allow paragraphs
-          Android app to manage fuel orders from depot.
+      
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
