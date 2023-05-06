@@ -111,7 +111,7 @@ content:
         additional_links:
           - title:  aakash94/RED
             icon: fab fa-github
-            url: aakash94/RED/blob/master/RewardBasedExplorationDecay.py          
+            url: github.com/aakash94/RED/blob/master/RewardBasedExplorationDecay.py          
         description: | # this will include new lines to allow paragraphs
           An approach to solve the classic OpenAI problem of cartpole, with focus on using a more sophisticated exploration strategy. [Preprint.](https://www.arxiv.org/abs/1910.13701)
       
@@ -123,7 +123,7 @@ content:
         additional_links:
           - title:  aakash94/avataarKW
             icon: fab fa-github
-            url: aakash94/avataarKW          
+            url: github.com/aakash94/avataarKW          
         description: | # this will include new lines to allow paragraphs
           Using NeRF to create a 3d representation of a scene from a single video of the scene. Also generating new video that navigates the same scene from a different perspective. 
       
@@ -135,7 +135,7 @@ content:
         additional_links:
           - title:  aakash94/SimpleEnv
             icon: fab fa-github
-            url: aakash94/SimpleEnv          
+            url: github.com/aakash94/SimpleEnv          
         description: | # this will include new lines to allow paragraphs
           Set of simple OpenAI Gym compatible environment to assist in bug free developement of Deep Reinforcement Learning agent.
   
@@ -147,7 +147,7 @@ content:
         additional_links:
           - title:  aakash94/DLNDRL
             icon: fab fa-github
-            url: aakash94/DLNDRL          
+            url: github.com/aakash94/DLNDRL          
         description: | # this will include new lines to allow paragraphs
           Reinforcement Learning Projects that were part of Deep Learning Nanodegree by udacity. Using various basic Reinforcement Learning algorthims to solve basic environments.
       
@@ -156,13 +156,13 @@ content:
         additional_links:
           - title:  aakash94/DLNDRL
             icon: fab fa-github
-            url: aakash94/UpDR          
+            url: github.com/aakash94/UpDR          
         description: |
           Use CNNs to restore colour in washed out images.
 
       - layout: left
         title: Capsule Networks  
-        url: aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
+        url: github.com/aakash94/DeepLearningBasics/blob/master/4ConvolutionalNeuralNetwork/5_Capsule.py
         description: | # this will include new lines to allow paragraphs
           Basic implementation of Capsule networks with [dynamic routing between capsules](https://papers.nips.cc/paper/6975-dynamic-routing-between-capsules.pdf) in PyTorch on MNIST.
 
@@ -186,7 +186,7 @@ content:
         additional_links:
           - title:  aakash94/ComputationalSemantics
             icon: fab fa-github
-            url: aakash94/ComputationalSemantics  
+            url: github.com/aakash94/ComputationalSemantics  
         description: | # this will include new lines to allow paragraphs
           Using Distilbert to classify tweet responses into appropriate categories.
 
@@ -195,7 +195,7 @@ content:
         additional_links:
           - title:  aakash94/WIP
             icon: fab fa-github
-            url: aakash94/WIP  
+            url: github.com/aakash94/WIP  
         description: | # this will include new lines to allow paragraphs
           Scrape the web to get information on Grammy nominated artists, their lyrics, and their portrayal in media. Analyse the information obtained to gain insights.
       
@@ -204,7 +204,7 @@ content:
         additional_links:
           - title:  aakash94/TransporterThesis
             icon: fab fa-github
-            url: aakash94/TransporterThesis  
+            url: github.com/aakash94/TransporterThesis  
         description: | # this will include new lines to allow paragraphs
           Use knowledge of motion to significantly improve performance of transporter networks in environments with egocentric vision, such as autonomous navigation with sensors mounted on vehicle.
 
@@ -226,23 +226,23 @@ content:
       - layout: left
         title: Stencil Matching
         link: aakash94.github.io/StencilMatching/
-        url: aakash94/StencilMatching
+        url: github.com/aakash94/StencilMatching
         additional_links:
           - title:  aakash94/StencilMatching
             icon: fab fa-github
-            url: aakash94/StencilMatching
+            url: github.com/aakash94/StencilMatching
         description: | # this will include new lines to allow paragraphs
           Fast lightweight and surprisingly robust approach to classifying certain type of images based on shared static components.
 
       - layout: left
         title: PyTorch Deep Learning  
-        url: aakash94/DeepLearningBasics
+        url: github.com/aakash94/DeepLearningBasics
         description: | # this will include new lines to allow paragraphs
           Code and examples of basic deep learning concepts in PyTorch for easy reference.
 
       - layout: left
         title: Search Results Relevance  
-        url: aakash94/MSAI
+        url: github.com/aakash94/MSAI
         description: | # this will include new lines to allow paragraphs
           Preprocess and experiment with the Microsoft search results dataset to increase relevance of search result.
            
