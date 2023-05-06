@@ -117,6 +117,18 @@ content:
       
       
       - layout: left
+        title: AvataarKW
+        link: github.com/aakash94/avataarKW
+        # link_text: Project Website
+        additional_links:
+          - title:  aakash94/avataarKW
+            icon: fab fa-github
+            url: aakash94/avataarKW          
+        description: | # this will include new lines to allow paragraphs
+          Using NeRF to create a 3d representation of a scene from a single video of the scene. Also generating new video that navigates the same scene from a different perspective. 
+      
+      
+      - layout: left
         title: SimpleEnv
         link: github.com/aakash94/SimpleEnv
         # link_text: Project Website
