@@ -53,6 +53,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Eurecat
+        link: eurecat.org
+        sub_title: Robotics Researcher
+        caption: October 2023 - Present
+        #quote: >One search. One place. One control.
+        description: | # this will include new lines to allow paragraphs
+          Led the development and implementation of advanced computer vision algorithms for robotic systems, also integrating sensors with robotic arms using ROS. Involved in formulating and managing research proposals, ensuring successful project acquisitions and execution. Presented research insights at conferences. Developed vision systems for inspecting and handling objects, automated systems for agricultural tasks, and enhanced recycling processes through automation. Implemented frameworks for automatic fruit harvesting using reinforcement learning, showcasing expertise in robotics and computer vision.
+
+      - layout: left
         title: Caavo
         link: caavo.com
         sub_title: Computer Vision
