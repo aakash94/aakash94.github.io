@@ -44,9 +44,8 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Very curious and I love solving puzzles/problems.
 
-  |Interested in: <mark>Reinforcement Learning</mark>, <mark>Deep Learning</mark>, <mark>Computer Vision</mark>, <mark>Natural Language Processing</mark>, <mark>Machine Learning</mark>, <mark>Software Engineering</mark>
-  |Libraries    : <mark>PyTorch</mark>, <mark>OpenCV</mark>
-  |Languages    : <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>
+  |Interested in: <mark>Computer Vision</mark>, <mark>Generative AI</mark>, <mark>Reinforcement Learning</mark>, <mark>Natural Language Processing</mark>, <mark>Machine Learning</mark>, <mark>Software Engineering</mark>, <mark>Game Development</mark>
+  |Languages    : <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>, <mark>C#</mark>
 
 content:
   - title: Experience # Title for the section
