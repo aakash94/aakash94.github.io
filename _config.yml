@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Aakash Maroti
-title: Software Developer (Artificial Intelligence/Deep Learning)
+title: Software Developer (Artificial Intelligence)
 email: aakash.maroti@gmail.com
 # website: aakash94.github.io
 
@@ -44,7 +44,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Very curious and I love solving puzzles/problems.
 
-  |Interested in: <mark>Computer Vision</mark>, <mark>Generative AI</mark>, <mark>Reinforcement Learning</mark>, <mark>Natural Language Processing</mark>, <mark>Machine Learning</mark>, <mark>Software Engineering</mark>, <mark>Game Development</mark>
+  |Interested in: <mark>Computer Vision</mark>, <mark>Generative AI</mark>, <mark>Reinforcement Learning</mark>, <mark>Natural Language Processing</mark>, <mark>Machine Learning</mark>, <mark>Software Engineering</mark>, <mark>Game Robotics</mark>, <mark>Game Development</mark>
   |Languages    : <mark>Python</mark>, <mark>Java</mark>, <mark>C++</mark>, <mark>C#</mark>
 
 content:
