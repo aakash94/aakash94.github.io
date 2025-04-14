@@ -96,6 +96,12 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    - layout: left
+        title: FitPixels
+        link: aakash94.github.io/Fit-Pixels/
+        description: | # this will include new lines to allow paragraphs
+          Interactive game that makes fitness more accessible, with cutting edge motion tracking on any device with a camera.
+      
       - layout: left
         title: RL agent for Brainvita
         link: aakash94.github.io/Brainvita/
