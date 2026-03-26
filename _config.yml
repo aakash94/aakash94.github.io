@@ -51,7 +51,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    - layout: left
+      - layout: left
         title: Sparo
         link: sparo.pro
         sub_title: CTO
